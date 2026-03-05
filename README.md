@@ -189,37 +189,9 @@ src
 
 ---
 
-# ⚙️ Installation & Setup
+# ⚙️ Vercel link
 
-### 1️⃣ Clone the repository
-
-```
-git clone https://github.com/your-username/modular-chess-ai.git
-cd modular-chess-ai
-```
-
----
-
-### 2️⃣ Install dependencies
-
-```
-npm install
-```
-
----
-
-### 3️⃣ Run the development server
-
-```
-npm run dev
-```
-
-Open the application in your browser:
-
-```
-http://localhost:5173
-```
-
+https://modularchess.vercel.app/
 ---
 
 # 🎯 Project Goals
