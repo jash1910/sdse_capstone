@@ -1,4 +1,4 @@
-# ♟ Modular Chess AI Engine 
+# Modular Chess AI Engine 
 
 ## Overview
 
@@ -18,7 +18,7 @@ The system is designed using **clean architecture and SOLID principles**, ensuri
 
 ---
 
-# 🚀 Key Features
+# Key Features
 
 ### ♟ Chess Gameplay
 
@@ -27,7 +27,7 @@ The system is designed using **clean architecture and SOLID principles**, ensuri
 * Move validation using chess rules
 * Turn-based game engine
 
-### 🤖 AI Strategies
+### AI Strategies
 
 Multiple AI strategies can be plugged into the system:
 
@@ -39,7 +39,7 @@ Strategies are injected dynamically into AI agents using the **Strategy Design P
 
 ---
 
-### 🏆 Tournament Simulation
+### Tournament Simulation
 
 The platform supports automated tournaments between AI agents.
 
@@ -53,7 +53,7 @@ Features include:
 
 ---
 
-### 📊 ELO Rating System
+### ELO Rating System
 
 AI agents are ranked using a dynamic **ELO rating system**.
 
@@ -61,7 +61,7 @@ Ratings update automatically after tournament matches using the standard ELO for
 
 ---
 
-### ⏱ Time Control
+### Time Control
 
 Different time policies can be applied to games:
 
@@ -73,7 +73,7 @@ Time policies are implemented as configurable modules.
 
 ---
 
-### 📜 Logging & Replay
+### Logging & Replay
 
 Every game is recorded using a logging system.
 
@@ -85,7 +85,7 @@ Features include:
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 The project follows a **layered architecture** where each module has a single responsibility.
 
@@ -111,7 +111,7 @@ Each layer communicates only through **well-defined abstractions**, ensuring loo
 
 ---
 
-# 🧠 Design Principles Used
+# Design Principles Used
 
 The project follows modern software engineering principles:
 
@@ -126,7 +126,7 @@ These principles make the system easy to extend with new AI strategies and modul
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 src
@@ -189,12 +189,12 @@ src
 
 ---
 
-# ⚙️ Vercel link
+# Vercel link
 
 https://modularchess.vercel.app/
 ---
 
-# 🎯 Project Goals
+# Project Goals
 
 This project demonstrates:
 
@@ -208,7 +208,7 @@ The goal is to build a **Chess AI Framework**, not just a chess game.
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 Possible future improvements include:
 
